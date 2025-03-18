@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+requests
+selenium
+webdriver-manager
+pydantic
+geopy
+folium
+streamlit
+pandas
+googlemaps
+openai
+regex
+python-dotenv
+os
